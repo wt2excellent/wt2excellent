@@ -6,7 +6,7 @@
 - 🔭 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to Java/Go.
 - 📫 How to reach me: 15537588047@163.com
-- 😄 Read more about my CSDN: [![CSDN](https://img.shields.io/badge/CSDN-orange)]([https://lilianlee.me/](https://blog.csdn.net/weixin_45863010?type=blog))
+- 😄 Read more about my CSDN: [![CSDN](https://img.shields.io/badge/CSDN-orange)](https://blog.csdn.net/weixin_45863010?type=blog)
 
 ![](https://github-readme-stats.vercel.app/api?username=wt2excellent&show_icons=true&theme=transparent)
 
